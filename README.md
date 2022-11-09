@@ -1,6 +1,6 @@
-# projetoinicial
+# Projeto Inicial em Flutter
 
-Projeto inicial flutter
+Projeto inicial em flutter
 
 ## Getting Started
 
